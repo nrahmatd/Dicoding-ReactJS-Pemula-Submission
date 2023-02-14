@@ -1,4 +1,5 @@
 # Dicoding-ReactJS-Pemula-Submission
+## Final Project: Developing Notes App With React
 - Main Criteria 1: Must Showing Notes List
 - Main Criteria 2: Must able to add Notes
 - Main Criteria 3: Must able to delete Notes
